@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://emilyelopez.github.io/sitemap.xml
