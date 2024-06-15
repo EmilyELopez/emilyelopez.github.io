@@ -23,10 +23,5 @@ social: true # includes social icons at the bottom of the page
 
  As a first-generation college student, I have been so fortunate to have been able to meet incredible mentors from the [EDGE for Women Program](https://www.edgeforwomen.org/) and the [McNair Scholars Program](https://mcnair.ucsb.edu/), which have aided me in finding my path as a researcher in the mathematical science. Inspired by their example, I remain dedicated welcoming spaces where everyone can be their authentic self and reach their highest potential throughout my career. 
 
- Outside of math, I enjoy baking, playing board games with friends, and have recently picked up yoga. If you ever want to chat, whether that be math related or not, please reach out to my email [lope0646@umn.edu]
-<!-- 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+ Outside of math, I enjoy baking, playing board games with friends, and have recently picked up yoga. If you ever want to chat, whether that be math related or not, please reach out to my email [lope0646@umn.edu](lope0646@umn.edu)
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
