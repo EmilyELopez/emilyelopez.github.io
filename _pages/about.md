@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Vincent Hall, University of Minnesota</p>
+    <p> Vincent Hall</p>
     <p>206 Chruch St. SE</p>
     <p>Minneapolis, MN 55455</p>
 
