@@ -17,7 +17,7 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
- My name is Emily and I am a first year doctoral student at the [University of Minnesota-Twin Cities Mathematics PhD Program](https://cse.umn.edu/math). I am grateful to be support by the National Science Foundation Graduate Research Fellowship. My research interests revolves around stochastic dynamics focused on creating interpretable guarantees for machine learning algorithms.
+I am a first year doctoral student at the [University of Minnesota-Twin Cities Mathematics PhD Program](https://cse.umn.edu/math). I am grateful to be support by the National Science Foundation Graduate Research Fellowship. My research interests revolves around stochastic dynamics focused on creating interpretable guarantees for machine learning algorithms.
  
  I first became fascinated in this area through my undergraduate research in modeling opinion dynamics and optimal transport while at the [University of California Santa Barbara College of Creative Studies](https://ccs.ucsb.edu/). Since then, I have been studying causal inference with network interference under the guidance of Cornell ORIE Professor [Christina Lee Yu](https://cleeyu.orie.cornell.edu/). 
 

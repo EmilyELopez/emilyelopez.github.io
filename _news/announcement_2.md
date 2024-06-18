@@ -10,7 +10,7 @@ images:
 
 Since its inception, the [EDGE foundation](https://www.edgeforwomen.org/) aims to increase equity in mathematics, support the next generation of STEM leaders, and creating diverse scientific communities. I was fortunate to be part of the 2022 cohort, where I was I able to create lasting friendships and work with other talented women pursuing graduate degrees in the mathematical sciences. 
 
-Below are a snapshot of our :gb: memories. 
+Below are some snapshots of our :gb: memories. 
 
 ---
 
