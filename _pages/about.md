@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> Vincent Hall</p>
-    <p>206 Chruch St. SE</p>
+    <p>206 Church St. SE</p>
     <p>Minneapolis, MN 55455</p>
 
 news: true # includes a list of news items
