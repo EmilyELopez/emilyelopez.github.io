@@ -2,7 +2,7 @@
 layout: page
 title: EDGE Webinar series
 description: August 2023 - Present
-img: assets/img/projects_pic/EDGE_web.png
+img: assets/img/projects_pic/EDGE_Web.png
 importance: 4
 category: passion projects
 ---
