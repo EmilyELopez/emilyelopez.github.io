@@ -5,7 +5,7 @@ permalink: /projects/
 description: Intuition is really a sudden immersion of the soul into universal current life. ~ Paulo Coelho, The Alchemist
 nav: true
 nav_order: 3
-display_categories: [research, fun]
+display_categories: [research, passion projects]
 horizontal: false
 ---
 
