@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Intuition is really a sudden immersion of the soul into universal current life. ~ Paulo Coelho, The Alchemist
 nav: true
 nav_order: 3
 display_categories: [research, fun]
