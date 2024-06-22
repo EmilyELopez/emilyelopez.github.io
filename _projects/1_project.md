@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: A comparison of the Linearized Optimal Transport and 2-Wasserstein distance
+description: 
+img: assets/img/projects_pic/OT.jpg
 importance: 1
 category: work
 related_publications: true
