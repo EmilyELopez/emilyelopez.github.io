@@ -1,24 +1,13 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
+title: Throttling on Directed Graphs
+description: June 2020 - August 2020
+img: assets/img/projects_pic/Throttle_pic.jpeg
 importance: 1
-category: work
+category: research
 related_publications: true
 ---
-
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+In many settings, such as electrical network monitoring and quantum systems, it is desired to optimize resources and time among connected objects in a network. This type of optimization motivates the throttling parameter, in which SMALL 2020 extended this parameter to directed graphs. In our work, we explored how graph operations impact the throttling number to give an interval of throttling values for specific graph families. 
     ---
 
 <div class="row">

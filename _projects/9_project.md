@@ -2,7 +2,7 @@
 layout: page
 title: project 9
 description: another project with an image 🎉
-img: assets/img/6.jpg
+img: assets/img/projects_pic/EDGE_web.png
 importance: 4
 category: fun
 ---

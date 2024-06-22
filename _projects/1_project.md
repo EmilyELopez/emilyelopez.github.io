@@ -1,24 +1,13 @@
 ---
 layout: page
-title: A comparison of the Linearized Optimal Transport and 2-Wasserstein distance
-description: 
-img: assets/img/projects_pic/OT.jpg
+title: Linear Optimal Transport
+description: August 2020 - June 2022
+img: assets/img/projects_pic/OT.jpeg
 importance: 1
-category: work
+category: research
 related_publications: true
 ---
-
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+The classical optimal transport problem seeks to determine how to rearrange one pile of dirt to look like a different pile of dirt using the least amount of effort. By interpreting piles of dirt as pixel intensities, discrete optimal transport has desirable properties for machine learning algorithms but often times is an impractical method for processing large-scale data sets of images. To offset computational cost, Wang et al. introduced a linearized optimal transport (LOT) approximation scheme which significantly reduces the computational complexity associated with the image comparison task. This project investigates the relationship between linearized optimal transport and discrete optimal transport by proving inequalities relating the metrics and numerically investigating their sharpness.
     ---
 
 <div class="row">
