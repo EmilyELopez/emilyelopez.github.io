@@ -17,11 +17,11 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am a first year doctoral student at the [University of Minnesota-Twin Cities Mathematics PhD Program](https://cse.umn.edu/math). I am grateful to be support by the National Science Foundation Graduate Research Fellowship. My research interests revolves around stochastic dynamics focused on creating interpretable guarantees for machine learning algorithms.
+I am a first year doctoral student at the [University of Minnesota-Twin Cities Mathematics PhD Program](https://cse.umn.edu/math). I am grateful to be support by the National Science Foundation Graduate Research Fellowship. My research interests broadly lie in stochastic dynamics, and I hope to explore its utility in creating interpretable guarantees for machine learning algorithms.
  
  I first became fascinated in this area through my undergraduate research in modeling opinion dynamics and optimal transport while at the [University of California Santa Barbara College of Creative Studies](https://ccs.ucsb.edu/). Currently, I am studying causal inference with network interference under the guidance of Cornell ORIE Professor [Christina Lee Yu](https://cleeyu.orie.cornell.edu/). 
 
- As a first-generation college student and former [McNair Scholar](https://mcnair.ucsb.edu/), I have been so fortunate to cross paths with incredible mentors whom have aided me in finding my path as a mathematics researcher. Inspired by their example, I remain dedicated in creating welcoming spaces where everyone can be their authentic self and reach their highest potential. 
+ As a first-generation college student and former [McNair Scholar](https://mcnair.ucsb.edu/), I have been so fortunate to have met incredible mentors along my math journey. Inspired by their example, I remain dedicated in creating welcoming spaces where everyone can be their authentic self and reach their highest potential. 
 
  Outside of math, I enjoy baking, playing board games with friends, and have recently picked up yoga. If you ever want to chat, whether it be math related or not, please reach out to my email [lope0646@umn.edu](lope0646@umn.edu).
 
