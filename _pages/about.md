@@ -23,5 +23,5 @@ I am a first year doctoral student at the [University of Minnesota-Twin Cities M
 
  As a first-generation college student and former [McNair Scholar](https://mcnair.ucsb.edu/), I have been so fortunate to have met incredible mentors along my math journey. Inspired by their example, I remain dedicated in creating welcoming spaces where everyone can be their authentic self and reach their highest potential. 
 
- Outside of math, I enjoy baking, playing board games with friends, and have recently picked up yoga. If you ever want to chat, whether it be math related or not, please reach out to my email [lope0646@umn.edu](lope0646@umn.edu).
+ Outside of math, I enjoy baking, playing board games with friends, and have recently picked up yoga. If you ever want to chat, whether it be math related or a matter of exchanging cookie recipes, please reach out to my email [lope0646@umn.edu](lope0646@umn.edu).
 
