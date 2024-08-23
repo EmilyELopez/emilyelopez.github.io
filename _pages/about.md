@@ -21,7 +21,5 @@ I am a first year doctoral student at the [University of Minnesota-Twin Cities M
  
  I first became fascinated in this area through my undergraduate research in modeling opinion dynamics and optimal transport while at the [University of California Santa Barbara College of Creative Studies](https://ccs.ucsb.edu/). Currently, I am studying causal inference with network interference under the guidance of Cornell ORIE Professor [Christina Lee Yu](https://cleeyu.orie.cornell.edu/). 
 
- As a first-generation college student and former [McNair Scholar](https://mcnair.ucsb.edu/), I have been so fortunate to have met incredible mentors along my math journey. Inspired by their example, I remain dedicated in creating welcoming spaces where everyone can be their authentic self and reach their highest potential. 
-
  Outside of math, I enjoy baking, playing board games with friends, and have recently picked up yoga. If you ever want to chat, whether it be math related or a matter of exchanging cookie recipes, please reach out to my email [lope0646@umn.edu](lope0646@umn.edu).
 
