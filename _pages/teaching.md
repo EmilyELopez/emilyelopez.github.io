@@ -7,10 +7,12 @@ nav: true
 nav_order: 6
 ---
 
-One of the joys of studying mathematics is sharing it with others. As a firm believer of [Professor Federico Ardila's Axioms of Mathematics](https://fardila.com/), I am actively involved in promoting better access for underrepresented groups in math and science. Along the way, I have met some pretty amazing people to work with while carrying out these outreach initiatives. 
+One of the joys of studying mathematics is sharing it with others. As a firm believer of [Professor Federico Ardila's Axioms of Mathematics](https://fardila.com/), I am actively involved in promoting better access for underrepresented groups in math and science. I have met some pretty amazing people to work with while carrying out these outreach initiatives. 
 
+* I volunteered as a counselor at my first [Mathematics Project at Minnesota](https://sites.google.com/view/mpm-umn/home) (MPM) in January 2024! MPM empowers underrepresented groups in mathematics through mentoring, promoting access to opportunities and resources, and facilitating community building. 
+* In Fall 2024, I participated in panels advising graduate students on making strong fellowship applications (GEMM) and mentoring undergraduates with REU applications (Math Club).
 * In Summer 2024, I mentored two undergraduate students in creating a Causal Inference Python Library alongside [Mayleen Cortez](https://www.mayleencortez.com/) and [Matt Eichhorn](https://maeichho.github.io/).
-* I was a 2023 - 2024 Center for Applied Mathematics Peer Mentoring Program Co-Coordinator with Mayleen Cortez and Tayler Fernandez-Nunez. The Peer Mentoring Program supports first-year Applied Math PhD students transitioning to the demands of graduate school. 
+* I was a 2023 - 2024 Center for Applied Mathematics Peer Mentoring Program Co-Coordinator with Mayleen Cortez and Tayler Fernandes-Nunez. The Peer Mentoring Program supports first-year Applied Math PhD students transitioning to the demands of graduate school. 
 * I served as the student coordinator of the 2021 [Summer Institute in Mathematics and Science](https://sims.csep.ucsb.edu/), a 3-week academic preparation and research training program for incoming first-year students intending to enroll at UCSB directly from high school in the Fall 2021.
 
 <div class="row mt-3">
