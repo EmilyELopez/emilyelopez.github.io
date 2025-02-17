@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: mentoring
-description: Alone we can do so little; together we can do so much. ~ Hellen Keller
+description: Alone we can do so little; together we can do so much. ~ Helen Keller
 nav: true
 nav_order: 6
 ---
