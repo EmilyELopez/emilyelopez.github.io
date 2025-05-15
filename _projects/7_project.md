@@ -3,7 +3,7 @@ layout: page
 title: Throttling on Directed Graphs
 description: June 2020 - August 2020
 img: assets/img/projects_pic/Throttle_pic.png
-importance: 1
+importance: 3
 category: research
 related_publications: false
 ---

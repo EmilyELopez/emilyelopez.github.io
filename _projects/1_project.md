@@ -3,7 +3,7 @@ layout: page
 title: Linear Optimal Transport
 description: August 2020 - June 2022
 img: assets/img/projects_pic/OT.jpeg
-importance: 1
+importance: 2
 category: research
 related_publications: false
 ---

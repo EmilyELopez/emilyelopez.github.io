@@ -3,7 +3,7 @@ layout: page
 title: Modeling Opinion Dynamics
 description: June 2020 - August 2020
 img: assets/img/projects_pic/opinions_pic.jpeg
-importance: 2
+importance: 4
 category: research
 giscus_comments: false
 ---
