@@ -9,8 +9,7 @@ profile:
   image: prof_pic1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Vincent Hall RM 456</p>
-    <p>206 Church St. SE</p>
+    <p> Vincent Hall </p>
     <p>Minneapolis, MN 55455</p>
 
 news: true # includes a list of news items
