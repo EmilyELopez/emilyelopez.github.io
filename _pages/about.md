@@ -20,5 +20,5 @@ I am a first year doctoral student at the [University of Minnesota-Twin Cities M
  
  I became fascinated in this area through my undergraduate research in optimal transport supervised by Professor [Katy Craig](https://web.math.ucsb.edu/~kcraig/math/home.html) while at the [University of California Santa Barbara College of Creative Studies](https://ccs.ucsb.edu/). Before coming to UMN, I studied causal inference with network interference under the guidance of Cornell ORIE Professor [Christina Lee Yu](https://cleeyu.orie.cornell.edu/). 
 
- Outside of math, I enjoy baking, playing board games with friends, and have recently picked up yoga. If you ever want to chat, whether it be math related or a matter of exchanging cookie recipes, please reach out to my email [lope0646@umn.edu](lope0646@umn.edu).
+ Outside of math, I enjoy baking, crafting, and have recently picked up yoga. If you ever want to chat, whether it be math related or a matter of exchanging cookie recipes, please reach out to my email [lope0646@umn.edu](lope0646@umn.edu).
 
