@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Intuition is really a sudden immersion of the soul into universal current life. ~ Paulo Coelho, The Alchemist
+description: The beauty of mathematics only shows itself to more patient followers. ~ Maryam Mirzakhani
 nav: true
 nav_order: 3
 display_categories: [research, passion projects]

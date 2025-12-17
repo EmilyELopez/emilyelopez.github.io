@@ -7,8 +7,13 @@ nav: true
 nav_order: 6
 ---
 
-One of the joys of studying mathematics is sharing it with others. As a firm believer of [Professor Federico Ardila's Axioms of Mathematics](https://fardila.com/), I am actively involved in promoting better access for underrepresented groups in math and science. I have met some pretty amazing people while carrying out these outreach initiatives. 
+One of the joys of studying mathematics is sharing it with others. As a supporter of [Professor Federico Ardila's Axioms of Mathematics](https://fardila.com/), I am actively involved in promoting better access for underrepresented groups in math and science through teaching and outreach. 
 
+**Teaching (UMN)** 
+* Math 1271 Calculus I -- Fall 2025 
+* Math 1272 Calculus II -- Spring 2026 
+
+**Mentoring**
 * I volunteered as a counselor at my first [Mathematics Project at Minnesota](https://sites.google.com/view/mpm-umn/home) (MPM) in January 2025! MPM empowers underrepresented groups in mathematics through mentoring, connecting students with opportunities and resources, and facilitating community building. 
 * In Fall 2024, I participated in panels advising graduate students on making strong fellowship applications (GEMM) and mentoring undergraduates with REU applications (Math Club).
 * In Summer 2024, I mentored two undergraduate students in creating a Causal Inference Python Library alongside [Mayleen Cortez](https://www.mayleencortez.com/) and [Matt Eichhorn](https://maeichho.github.io/).
