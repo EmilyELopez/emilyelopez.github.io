@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-One of the joys of studying mathematics is sharing it with others. As a supporter of [Professor Federico Ardila's Axioms of Mathematics](https://fardila.com/), I am actively involved in promoting better access for underrepresented groups in math and science through teaching and outreach. 
+One of the joys of studying mathematics is sharing it with others. I endorse [Professor Federico Ardila's Axioms of Mathematics](https://fardila.com/) and am actively promoting better access for underrepresented groups in math and science through teaching and outreach. 
 
 **Teaching (UMN)** 
 * Math 1271 Calculus I -- Fall 2025 
