@@ -51,6 +51,7 @@
         "SymPy",
         "Pandas",
         "TensorFlow for Optimization",
+        "bash script and command line",
         "Version Control (Github)"
       ]
     },
@@ -61,10 +62,10 @@
       "keywords":[
         "Causal inference", 
         "Neural Networks Training",
-        "asymptotic analysis using ODEs",
-        "basics to statistical learning",
-        "simulation design",
-        "stochastic processes"
+        "Asymptotic analysis using ODEs",
+        "Statistical learning",
+        "Simulation design",
+        "Stochastic processes"
       ]
     }
   ]
