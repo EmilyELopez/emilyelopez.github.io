@@ -50,6 +50,7 @@
         "Numpy",
         "SymPy",
         "Pandas",
+        "TensorFlow for Optimization",
         "Version Control (Github)"
       ]
     },
@@ -59,6 +60,7 @@
       "icon":"fa-solid fa-hashtag",
       "keywords":[
         "Causal inference", 
+        "Neural Networks Training",
         "asymptotic analysis using ODEs",
         "basics to statistical learning",
         "simulation design",
